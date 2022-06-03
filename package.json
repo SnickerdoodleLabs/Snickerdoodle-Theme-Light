@@ -1,0 +1,21 @@
+{
+    "name": "snickerdoodle-light",
+    "displayName": "Snickerdoodle Light",
+    "description": "Snickerdoodle Labs light VSCode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Snickerdoodle Light",
+                "uiTheme": "vs",
+                "path": "./themes/Snickerdoodle Light-color-theme.json"
+            }
+        ]
+    }
+}
