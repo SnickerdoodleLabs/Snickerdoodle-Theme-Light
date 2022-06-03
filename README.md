@@ -1,4 +1,4 @@
-[![alt](snickerdoodle.png)](https://snickerdoodlelabs.io)
+[![alt](/snickerdoodle.png)](https://snickerdoodlelabs.io)
 
 # Snickerdoodle Labs Light VSCode Theme
 
