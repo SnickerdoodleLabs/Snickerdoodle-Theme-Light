@@ -7,8 +7,8 @@
         "url": "https://github.com/SnickerdoodleLabs/Snickerdoodle-Theme-Light"
     },
     "publisher": "Snickerdoodle",
-    "version": "0.0.2",
-    "icon": "./small_snickerdoodle_logo.png",
+    "version": "0.0.3",
+    "icon": "small_snickerdoodle_logo.png",
     "engines": {
         "vscode": "^1.52.0"
     },
